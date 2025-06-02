@@ -5,6 +5,8 @@ Bem-vindo(a) ao repositório do Projeto Dragon Ball, desenvolvido durante a "Sem
 
 Aqui você pode conferir a primeira tela do projeto, que apresenta a estrutura e o layout criados durante o desenvolvimento. O design foi pensado para ser simples e funcional, com foco na apresentação das informações e responsividade.
 
+![image](https://github.com/user-attachments/assets/0f24e033-8c08-4e2c-87c0-aa768d215c5e)
+
 ## ⚙️ Funcionalidades
 
 - Apresentação de personagens inspirados no universo Dragon Ball.
